@@ -29,7 +29,7 @@ Do models flip-flop under the same conditions as people?
 - [Common Ground (Stalnaker, 2002)](https://semantics.uchicago.edu/kennedy/classes/f07/pragmatics/stalnaker02.pdf) - PDF
 - [John Langshaw Austin — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/austin-jl/)
 - ⭐ [Willard Van Orman Quine — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/quine/)
-- ⭐ [The Web of Belief (Qune et al., 1978)](https://emilkirkegaard.dk/en/wp-content/uploads/W.-V.-Quine-J.-S.-Ullian-The-Web-of-Belief.pdf) - PDF
+- ⭐ [The Web of Belief (Quine et al., 1978)](https://emilkirkegaard.dk/en/wp-content/uploads/W.-V.-Quine-J.-S.-Ullian-The-Web-of-Belief.pdf) - PDF
 
 ### Rhetoric & Persuasion
 
