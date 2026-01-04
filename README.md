@@ -44,13 +44,13 @@ Under what conditions can models influence human beliefs?
 
 Do models possess the linguistic competence to do this? If so, what safeguards or ethical concerns should be considered?
 
-### 3. Asymmetry of Belief Revision
+### 3. Asymmetry of Belief
 
-Humans show asymmetric susceptibility to belief-affirming statements (confirmation bias) versus belief-denying challenges.
+Humans are asymmetrically responsive to belief-affirming statements (confirmation bias) versus belief-denying statements. Additionally, beliefs that have been repeatedly affirmed become harder to revise (they're integrated into a broader or deeper web of commitments). 
 
 **Open questions:**
 - Can rhetorical skill overcome this asymmetry?
-- Is a well-crafted challenge to a belief as effective as a poorly-crafted affirmation?
+- Is a well-crafted challenge to a belief as effective as a poorly-crafted affirmation (persuasive work that challenges beliefs must clear a higher bar than content that confirms them).
 - Do models exhibit similar asymmetries or different ones?
 
 ## Why This Matters
