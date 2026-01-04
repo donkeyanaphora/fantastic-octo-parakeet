@@ -24,11 +24,12 @@ Do models flip-flop under the same conditions as people?
 
 ### Human Belief Revision & Epistemology
 
-- ⭐ [Other Minds (Austin, 1946)](https://web.stanford.edu/~paulsko/papers/Austin_OM.pdf) — PDF
-- ⭐ [Epistemic Vigilance (Sperber et al., 2010)](https://www.dan.sperber.fr/wp-content/uploads/2010_clement-et-al_epistemic-vigilance.pdf) — PDF
-- [Common Ground (Stalnaker, 2002)](https://semantics.uchicago.edu/kennedy/classes/f07/pragmatics/stalnaker02.pdf) — PDF
+- ⭐ [Other Minds (Austin, 1946)](https://web.stanford.edu/~paulsko/papers/Austin_OM.pdf) - PDF
+- ⭐ [Epistemic Vigilance (Sperber et al., 2010)](https://www.dan.sperber.fr/wp-content/uploads/2010_clement-et-al_epistemic-vigilance.pdf) - PDF
+- [Common Ground (Stalnaker, 2002)](https://semantics.uchicago.edu/kennedy/classes/f07/pragmatics/stalnaker02.pdf) - PDF
 - [John Langshaw Austin — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/austin-jl/)
-- [Willard Van Orman Quine — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/quine/)
+- ⭐ [Willard Van Orman Quine — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/quine/)
+- ⭐ [The Web of Belief (Qune et al., 1978)](https://emilkirkegaard.dk/en/wp-content/uploads/W.-V.-Quine-J.-S.-Ullian-The-Web-of-Belief.pdf) - PDF
 
 ### Rhetoric & Persuasion
 
