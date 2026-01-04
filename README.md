@@ -14,11 +14,11 @@ Do models flip-flop under the same conditions as people?
 
 2. **Steering directions** — think about what directions to extract/apply
 
-3. **FlipFlop datasets + relevant papers** — gather and share
+3. **FlipFlop datasets + relevant papers** — gather and share ✔️
 
 4. **Publication venues** — look into humanities/social sciences journals (where James Evans and Mina Lee publish)
 
-5. **Basic activation steering resources** — collect tutorials, repos, walkthroughs
+5. **Basic activation steering resources** — collect tutorials, repos, walkthroughs ✔️
 
 ## Resources
 
