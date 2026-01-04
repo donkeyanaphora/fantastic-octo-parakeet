@@ -5,7 +5,7 @@ Do models flip-flop under the same conditions as people?
 
 ## Next Steps
 
-1. **Prompts for rhetorical vs literal stance-taking**
+1. **Prompts for rhetorical vs literal stances**
    - (Stance A) — literal
    - (Stance A) — rhetorical
    - [may not be relevant] (Stance ¬A) — literal
