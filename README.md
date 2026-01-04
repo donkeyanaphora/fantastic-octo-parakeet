@@ -1,7 +1,64 @@
-# fantastic-octo-parakeet
+# Model vs. Human Belief Revision
 
 ## Question
-Do models flip-flop under the same conditions as people?
+
+Do models reverse their stance under the same (or similar) conditions as people?
+
+## Working Assumption
+
+Models may revise stance under different conditions than humans.
+
+- **Model stance revision trigger** (literal propositional assertion): "Actually, red is closer to blue than to orange."
+- **Human stance revision trigger** (rhetorical / pragmatic move): "If you think red is closer to orange than to blue, look at the American flag and tell me what you see."
+
+## If the Conditions Differ
+
+- Models are not behaving like people
+- Model stance reversals are likely training artifacts (e.g., instruction-following pressure, alignment pressure), not human-like cognition
+- Sycophantic revisions are a bug, not a feature
+- Agreement does not imply understanding
+
+## If the Conditions Match
+
+- Models may implement something like human-style belief revision
+- Some forms of sycophantic-looking revision may be a feature learned from human discourse norms
+- Persuasion techniques that work on humans may transfer to models (and vice versa)
+
+## Key Questions/Considerations
+
+### 1. How can users persuade models?
+
+What conditions move model stances?
+- Evidence
+- Logic
+- Rhetoric
+- Social pressure
+
+### 2. How can models persuade users?
+
+Under what conditions can models influence human beliefs?
+- Evidence
+- Logic
+- Rhetoric
+- Social cues
+
+Do models possess the linguistic competence to do this? If so, what safeguards or ethical concerns should be considered?
+
+### 3. Asymmetry of Belief Revision
+
+Humans show asymmetric susceptibility to belief-affirming statements (confirmation bias) versus belief-denying challenges.
+
+**Open questions:**
+- Can rhetorical skill overcome this asymmetry?
+- Is a well-crafted challenge to a belief as effective as a poorly-crafted affirmation?
+- Do models exhibit similar asymmetries or different ones?
+
+## Why This Matters
+
+- Understanding where model and human belief revision differ helps differentiate which aspects of model stance reversal are bugs (training artifacts to fix) versus features (human-like responses that may be appropriate or at least expected).
+- Understanding the conditions in which people are persuaded/revise stance can help us understand whether models possess these rhetorical/persuasive capabilities.
+- If models have this competence, they may be able to persuade people, potentially at scale.
+- Models may be sensitive to rhetoric (not just typical sycophancy hacking).
 
 ## Next Steps
 
