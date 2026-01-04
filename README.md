@@ -114,7 +114,7 @@ Do models flip-flop under the same conditions as people?
 - [Neuronpedia](https://www.neuronpedia.org)
 - [Eiffel Tower Llama Demo](https://huggingface.co/spaces/dlouapre/eiffel-tower-llama)
 - [Extracting Concepts from LLMs (HuggingFace blog)](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms)
-- [Llama3-Instruct code]
+- [Llama3-Instruct code GitHub](https://github.com/donkeyanaphora/STEERING_EXPERIMENTS/blob/main/notebooks/llama_causal_probe.ipynb)
 
 ## Legend
 
