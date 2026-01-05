@@ -73,7 +73,7 @@ Humans are asymmetrically responsive to belief-affirming statements (confirmatio
 
 3. **FlipFlop datasets + relevant papers** — gather and share ✔️
 
-4. **Publication venues** — look into humanities/social sciences journals (where James Evans and Mina Lee publish)
+4. **Publication venues** — look into humanities/social sciences journals
 
 5. **Basic activation steering resources** — collect tutorials, repos, walkthroughs ✔️
 
