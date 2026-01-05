@@ -92,6 +92,7 @@ Humans are asymmetrically responsive to belief-affirming statements (confirmatio
 
 - ⭐ [Richard Rorty, *Contingency, Irony, and Solidarity* (1989)](https://sites.pitt.edu/~rbrandom/Courses/Antirepresentationalism%20(2020)/Texts/rorty-contingency-irony-and-solidarity-1989.pdf) — PDF
 - ⭐ [On the conversational persuasiveness of GPT-4 (Salvi et al., Nature 2025)](https://www.nature.com/articles/s41562-025-02194-6)
+- ⭐ [LLM-generated messages can persuade humans on policy issues (Bai et al., Nature 2025)](https://www.nature.com/articles/s41467-025-61345-5)
 - ⭐ [Debating with More Persuasive LLMs Leads to More Truthful Answers](https://arxiv.org/abs/2402.06782)
 - [Metaphor — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/metaphor/)
 - [Contradiction — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/contradiction/)
