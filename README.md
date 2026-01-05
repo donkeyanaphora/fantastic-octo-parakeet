@@ -1,4 +1,4 @@
-# Model vs. Human Belief Revision
+# Model vs. Human Stance Revision
 
 ## Question
 
