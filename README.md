@@ -1,4 +1,4 @@
-# Model vs. Human Stance Revision
+# Rhetoric & Stance Revision
 
 ## Questions
 
